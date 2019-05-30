@@ -1,0 +1,140 @@
+<mjml>
+   <mj-head>
+    <mj-title> TURISMOi </mj-title>
+    <mj-font name="Alice" href="https://fonts.googleapis.com/css?family=Alice"></mj-font>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:400,700"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Roboto, Helvetica, Arial, sans-serif" padding="0px"></mj-all>
+      <mj-text font-weight="400" font-size="14px" color="#000000" line-height="21px"></mj-text>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#e0f2ff">
+    <mj-section padding="20px 0 0 0">
+      <mj-column>
+        <mj-image src="http://nimus.de/share/tpl-realestate/box-head.png" alt="" align="center" border="none" padding="0px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="40px" background-color="#FFFFFF">
+      <mj-column width="570px">
+       <mj-image src="https://github.com/SolangeSalvatierra/prueba-web-designer/blob/master/sources/logos-turismoi/turismoi.png?raw=true" alt="logo" width="180px" padding="10px 0"></mj-image>
+        
+        <mj-text align="right" padding="0 20px"><strong><span style="font-size: 40px;"> ⚊ </span></strong><br /><br /></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FFFFFF">
+      <mj-column width="500px">
+        <mj-image src="https://github.com/SolangeSalvatierra/prueba-web-designer/blob/developer/sources/img-new/promo-01.png?raw=true" alt="" padding-bottom="30px" width="500px" align="center" border="none"></mj-image>
+      </mj-column>
+      <mj-column width="520px">
+        <mj-text align="center" color="#FAB701" font-size="18px" padding="0 20px 10px 10px"> Hola (nombre de la persona) ¡Gracias! por confiar en nosotros es por eso que tenemos <strong> MÁS OFERTAS </strong> para ti. <br/>
+          ¡Ahora tu y tus amigos pueden ganar!.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-url="https://github.com/SolangeSalvatierra/prueba-web-designer/blob/developer/sources/img-new/11172.jpg?raw=true" vertical-align="middle" background-size="cover" padding="30px" background-repeat="no-repeat">
+      <mj-column vertical-align="middle" width="60%">
+        <mj-text align="center" padding="40px 30px" color="#FFFFFF" font-size="42px" line-height="48px" font-family="Alice, Helvetica, Arial, sans-serif">  </mj-text>
+      </mj-column>
+      <mj-column vertical-align="middle" width="40%" background-color="#FFFFFF">
+        <mj-image src="http://nimus.de/share/tpl-realestate/box-top.png" width="220px" alt="" align="center" border="none"></mj-image>
+        <mj-text align="center" padding="20px 20px 0 20px" color="#1D83A8" font-size="16px" line-height="25px" font-family="Poppins, Helvetica, Arial, sans-serif"> <strong> COMPARTE TU PASIÓN POR EL VIAJE  </strong>   </mj-text>
+        <mj-text align="center" padding="10px 20px" font-size="18px" line-height="20px"><strong> y gana el 10% </strong> </mj-text>
+        <mj-text align="center" padding="0 20px">
+          Invita uno de tus amig@ a comprar en Turismoi, cada vez que den tu correo al realizar una compra. GANARAS! el 10% del monto de la compra.
+          </mj-text>
+        <mj-button background-color="#F44E3C" color="white" padding="20px 20px 30px 20px" border-radius="20px">Invita</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="30px" background-color="#FFFFFF">
+      <mj-column width="60%">
+        <mj-text align="center" padding-bottom="20px" font-size="26px" line-height="30px" font-family="Poppins, Helvetica, Arial, sans-serif"> Al comprar</mj-text>
+        <mj-text align="center" padding="0 40px">Tu amig@ debe ingresar tu correo al momento de realizar la compra.</mj-text>
+        <mj-image src="https://github.com/SolangeSalvatierra/prueba-web-designer/blob/developer/sources/img-new/mercadeo.png?raw=true" alt="" padding="30px 0 10px 0" width="50px" align="center" border="none"></mj-image>
+      </mj-column>
+      <mj-column width="40%" background-color="#FFFFFF">
+        <mj-image src="https://github.com/SolangeSalvatierra/prueba-web-designer/blob/developer/sources/img-new/306557-P7UDSE-132.jpg?raw=true" width="216px" alt="" align="center" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px" background-color="#FFFFFF">
+      <mj-column width="100%">
+        <mj-image src="http://nimus.de/share/tpl-realestate/symbol-1.png" alt="" width="292px" align="left" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 20px" background-color="#FFFFFF">
+      <mj-column>
+        <mj-text align="center" color="#ff6633" font-size="26px" line-height="30px" font-family="Poppins, Helvetica, Arial, sans-serif">IMPORTANTE</mj-text>
+        <mj-divider width="20px" padding="20px 0" border-width="2px" border-color="#000000"></mj-divider>
+        <mj-text align="center" padding="0 40px"> El amig@ invitado no debe haber hecho compras previas en Turismoi.pe, es decir, debe ser un nuevo cliente.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px" background-color="#FFFFFF">
+      <mj-column width="100%">
+        <mj-image src="http://nimus.de/share/tpl-realestate/symbol-2.png" alt="" width="213px" align="right" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 30px 30px" background-color="#FFFFFF">
+      <mj-column width="55%">
+        <mj-image src="https://github.com/SolangeSalvatierra/prueba-web-designer/blob/developer/sources/img-new/7035.jpg?raw=true" width="280px" padding-bottom="20px" alt="" align="center" border="none"></mj-image>
+      </mj-column>
+      <mj-column width="45%" background-color="#FFFFFF">
+        <mj-text align="center" padding-bottom="20px" font-size="26px" line-height="30px" font-family="Poppins, Helvetica, Arial, sans-serif"> Beneficios </mj-text>
+        <mj-text align="center" padding="0 40px"> ¡Ganas! el 10% con cualquier monto de compra que haga tu amig@. </mj-text>
+        <mj-image src="https://github.com/SolangeSalvatierra/prueba-web-designer/blob/developer/sources/img-new/bolsa-de-dinero.png?raw=true" alt="" padding="30px" width="50px" align="center" border="none"></mj-image>
+      </mj-column>
+      
+   </mj-section>
+    
+    <mj-section background-url="https://github.com/SolangeSalvatierra/prueba-web-designer/blob/developer/sources/img-new/31502.jpg?raw=true" vertical-align="middle" background-size="cover" padding="50px" background-repeat="no-repeat">
+      <mj-column vertical-align="middle" width="40%" background-color="#FFFFFF">
+        <mj-image src="http://nimus.de/share/tpl-realestate/box-top.png" width="220px" alt="" align="center" border="none"></mj-image>
+        <mj-text align="center" padding="20px 20px 20px 20px" color="#1D83A8" font-size="26px" line-height="30px" font-family="Poppins, Helvetica, Arial, sans-serif"> <strong> RECUERDA </strong></mj-text>
+        
+        <mj-text align="center" padding="0 20px 0 30px">Puedes recomendar a todos los viajeros que desees y acumular tus ganancias.</mj-text>
+        <mj-image src="https://github.com/SolangeSalvatierra/prueba-web-designer/blob/developer/sources/img-new/trabajo-en-equipo.png?raw=true" alt="" padding="20px" width="50px" align="center" border="none"></mj-image>
+        
+      </mj-column>
+      <mj-column vertical-align="middle" width="60%">
+        <mj-text align="center" padding="40px 30px" color="#FFFFFF" font-size="42px" line-height="48px" font-family="Alice, Helvetica, Arial, sans-serif"> </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#ff6633" padding="8px 8px">
+      <mj-column vertical-align="top" width="100%">
+        <mj-text align="center" color="#f8d5d1" font-size="14px" padding-bottom="15px" padding="10px 20px" line-height="18px">En caso de que una de las partes tenga dudas sobre la promoción puede comunicarse con <a href="mailto:ventas@turismoi.pe" style="color:#fff" target="_blank"> ventas@turismoi.pe </a> o por nuestro chat en linea.</mj-text>
+      </mj-column>
+    </mj-section>
+   
+    <mj-section background-color="#1E3E4C" padding="30px 100px 30px" aling="center">
+       <mj-group>
+      
+      <mj-column>
+        <mj-image src="http://turismoi.org/turismoipe/icon-facebook.png" href="https://www.facebook.com/Turismoi.pe" width="30px" ></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image src="http://turismoi.org/turismoipe/icon-twitter.png" href="http://www.twitter.com/turismoipe" width="30px" ></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image src="http://turismoi.org/turismoipe/icon-linkedin.png" href="https://www.linkedin.com/company/3746649?trk=tyah&trkInfo=tarId%3A1404231976960%2Ctas%3Aturismoi%2Cidx%3A1-1-1" alt="ins" width="30px" ></mj-image>
+      </mj-column>
+      <mj-column >
+        <mj-image src="http://turismoi.org/turismoipe/icon-youtube.png" href="https://www.youtube.com/user/TurismoiOrg" width="30px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image src="http://turismoi.org/turismoipe/icon-blog.png" href="http://blog.turismoi.org/" width="30px" ></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image src="http://turismoi.org/turismoipe/icon-android.png" href="https://play.google.com/store/apps/details?id=m.turismoi.pe" width="30px" ></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image src="http://turismoi.org/turismoipe/icon-apple.png" href="https://itunes.apple.com/pe/app/turismoi.pe/id1033366145?mt=8" width="30px" ></mj-image>
+      </mj-column>
+          </mj-group>
+    </mj-section>
+    
+    
+    <mj-section padding="10px 0 20px 0">
+      <mj-column>
+        <mj-text align="center" color="#9B9B9B" font-size="10.5px"><a href="#" style="color: #9B9B9B;"></a> Enviado por: Turismoi.pe S.A.C Atención al Cliente / Dirección: Av. Armendariz 234 - Oficina 202, Miraflores, Lima - Perú / Teléfono: 320-4315 / E-mail: informes@turismoi.pe
+<a href="http://www.flaticon.com" target="_blank" style="color: #9B9B9B; text-decoration: none;">En caso ya no desee recibir esta clase de comunicaciones, por favor envíe un correo electrónico a <strong> informes@turismoi.pe </strong> con el asunto “Solicitud de baja”. Mediante esta solicitud usted será dado de baja del portal Turismoi.pe y de todos los servicios que tenga activos con nosotros.  </a><br/> <a href="http://svenhaustein.de"style="color: #9B9B9B; text-decoration:none;">Copyright © 2016 Turismoi.pe. Todos los derechos reservados.</a></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
